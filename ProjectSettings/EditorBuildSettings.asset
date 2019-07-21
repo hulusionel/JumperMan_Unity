@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/AnaMenu.unity
+    guid: bf719aad9b6c43d4bad59bd81d79ecd9
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/sahne.unity
+    guid: 4b4414d005810424f9dacfb61eb7fce7
+  - enabled: 1
+    path: Assets/Scenes/SoruSahne.unity
+    guid: 4d2e70689b1dc0c4ea9c291dc91b99bb
+  m_configObjects: {}
